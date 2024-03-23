@@ -35,6 +35,7 @@ course-acronym: inf1a
     - [Learn Regex Interactively](https://regexone.com)
     -   [Learn Regex The Easy Way]
     -   [Learn about regular expressions (has a great cheatsheet)]
+    -   [Learn Regex interactively and visually]
 
   [Understanding Resolution]: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/notes/resolution/resolution.pdf
   [Solution to the original 4d on the take home exam]: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/tutorials/2016/solutiontakehome4d.pdf
@@ -48,3 +49,4 @@ course-acronym: inf1a
   [Learn Regex The Easy Way]: https://github.com/zeeshanu/learn-regex
   [simulator]: http://ivanzuzak.info/noam/webapps/fsm_simulator/
   [regex/automaton converter]: http://ivanzuzak.info/noam/webapps/fsm2regex/
+  [Learn Regex interactively and visually]: https://extendsclass.com/regex-tester.html
